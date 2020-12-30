@@ -1,0 +1,13 @@
+name: CloudServerManager
+version: 0.1
+main: de.anglergames.cloudservermanager.main.CloudServerManager
+api-version: 1.8
+authors:
+  - AnglergamesDE
+  - HabGeburtstag
+
+commands:
+  cloudservermanager:
+    aliases:
+      - csm
+      - cloudsm
